@@ -25,10 +25,10 @@ IV - Reto Extra
   
 III - Completar las siguientes oraciones con los valores correctos y meterlos en el Readme del Programa anterior de Movies:
 
-1- Una clase es una fabrica ( o plano) que instancia (crea) objeto
-2- Los objetos tienen un unico ____________ y un conjunto comun de ___________
-3- Una variable de ______________ existe por toda la vida de un ______________
-4- Los metodos init tienen acceso a las variables ____________ de sus objetos
-5- los nombres de Clases inician con una letra mayúscula
-6- los nombres de Metodos inician con una letra minúscula
-7- los nombres de variables inician con una letra minúscula
+1- Una clase es una fabrica ( o plano) que instancia (crea) objeto.
+2- Los objetos tienen un unico identificador y un conjunto comun de atributos y metodos.
+3- Una variable de instancia existe por toda la vida de un objeto.
+4- Los metodos getters y setters tienen acceso a las variables privadas de sus objetos.
+5- los nombres de Clases inician con una letra mayúscula.
+6- los nombres de Metodos inician con una letra minúscula.
+7- los nombres de variables inician con una letra minúscula.
